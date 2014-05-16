@@ -1,1 +1,66 @@
-/home/aleksey/.Xresources
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.dpi: 87
+!89x87
+Xft.rgba: rgb
+!------------------
+!UXTerm settings
+!------------------
+UXTerm*cursorColor: #BABDB6
+UXTerm*background: #2E3436
+!#4a4a4a
+UXTerm*foreground: #BABDB6
+!#e3e3e3
+UXTerm*saveLines: 1000
+!UXTerm*faceName: xft:Terminus:size=14:antialias=true
+!UXTerm*faceName: xft:DejaVu Sans Mono:size=14:antialias=true
+UXTerm*faceName: xft:Consolas:size=14:antialias=true
+UXTerm*loginShell: true
+UXTerm*eightBitInput: true
+!UXTerm*font: -*-courier-medium-r-normal-14-140-*-*-m-*-*
+!UXTerm*scrollBar: True
+!UXTerm*saveLines: 1000
+!UXTerm*faceName: xft:Terminus:pixelsize=16:antialias=false
+!------------------UXTerm*font: -*-terminus-medium-r-*-*-12-*-*-*-*-*-iso10646-*
+!UXTerm*charClass: 33:48,35:48,37-38:48,43-47:48,58:48,61:48,63-64:48,126:48
+!UXTerm*eightBitOutput: true
+UXTerm*metaSendsEscape: true
+! alt + shift + ? - search in MC now works
+UXTerm*altSendsEscape: true
+! keep selected text in buffer
+UXTerm*keepSelection: true
+!UXTerm*bellIsUrgent: true
+UXTerm*dynamicColors: on
+!UXTerm*color1:  #9e1828
+UXTerm*jumpScroll: true
+UXTerm*multiScroll: true
+!------------------
+!XTerm settings
+!------------------
+XTerm*cursorColor: #BABDB6
+XTerm*background: #4a4a4a
+XTerm*foreground: #e3e3e3
+XTerm*saveLines: 1000
+XTerm*faceName: xft:Terminus:size=14:antialias=true
+!XTerm*faceName: xft:DejaVu Sans Mono:pixelsize=14:antialias=true
+XTerm*loginShell: true
+XTerm*eightBitInput: true
+!XTerm*font: -*-courier-medium-r-normal-14-140-*-*-m-*-*
+!XTerm*scrollBar: True
+!XTerm*saveLines: 1000
+!XTerm*faceName: xft:Terminus:pixelsize=16:antialias=false
+!------------------UXTerm*font: -*-terminus-medium-r-*-*-12-*-*-*-*-*-iso10646-*
+!XTerm*charClass: 33:48,35:48,37-38:48,43-47:48,58:48,61:48,63-64:48,126:48
+!XTerm*eightBitOutput: true
+XTerm*metaSendsEscape: true
+! alt + shift + ? - search in MC now works
+XTerm*altSendsEscape: true
+! keep selected text in buffer
+XTerm*keepSelection: true
+!XTerm*bellIsUrgent: true
+XTerm*dynamicColors: on
+!XTerm*color1:  #9e1828
+XTerm*jumpScroll: true
+XTerm*multiScroll: true
